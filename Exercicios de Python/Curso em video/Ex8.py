@@ -1,0 +1,7 @@
+numero1 = float(input('Digite um numero: '))
+print('{}km'.format(numero1/1000))
+print('{}hm'.format(numero1/100))
+print('{}dam'.format(numero1/10))
+print('{:.0f}dm'.format(numero1*10))
+print('{:.0f}cm'.format(numero1*100))
+print('{:.0f}mm'.format(numero1*1000))

@@ -1,0 +1,6 @@
+Nome = str(input('Digite o seu nome: ')).strip()
+print('analizando o seu nome...')
+print('Seu nome em maiuscula é: ', Nome.upper())
+print('Seu nome em minuscula é: ', Nome.lower())
+print('Seu nome possui {} letras'.format(len(Nome) - Nome.count(' ')))
+print('Seu primeiro nome é {} e possui {} letras'.format(Nome[:Nome.find(' ')], Nome.find(' ')))
