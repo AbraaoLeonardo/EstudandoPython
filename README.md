@@ -1,2 +1,2 @@
 # EstudandoPython
- Estudando Python para data science
+ Estudando Python
