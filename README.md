@@ -1,3 +1,3 @@
 # EstudandoPython
 Repositório utilizado para resolver exercicios de programação.
-Usando principalmente o Curso em Video e o www.hackerrank.com
+Usarei os sites https://www.cursoemvideo.com/, www.hackerrank.com e o https://www.codewars.com/dashboard
